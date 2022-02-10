@@ -1,6 +1,6 @@
 const knex = require('../conexao');
 const bcrypt = require('bcrypt');
-const cadastroUsuarioSchema = require('../validacoes/cadastroUsurioSchema');
+const cadastroUsuarioSchema = require('../validacoes/cadastroUsuarioSchema');
 const atualizarUsuarioSchema = require('../validacoes/atualizacaoUsuarioSchema');
 
 

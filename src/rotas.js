@@ -1,7 +1,7 @@
 const express = require('express');
 const filtroLogin = require('./filtros/filtroLogin');
 const loginUsuario = require('./controladores/login');
-const usuario = require('./controladores/usuarios');
+const usuario = require('./controladores/usuario');
 const fornecedor = require('./controladores/fornecedores');
 const rotas = express();
 
