@@ -23,7 +23,7 @@ Utilize o Postman (https://www.postman.com/) ou Insomnia(https://insomnia.rest/d
 
 ### Estrutura de Pasta
 
-    ├── restful-ws
+    ├── projeto-processo-seletivo-back
     |   ├── node_modules (não será importado, rodar npm install)
     |   ├── src
     |       ├── index.js
